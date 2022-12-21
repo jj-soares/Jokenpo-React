@@ -68,7 +68,6 @@ Go to http://127.0.0.1:5173/ to see the result.
     
    <img src="./public/readme-assets/img.JPG" width= '50%' >
    
-   <img src="./public/readme-assets/jokenpo.gif" width='80%'  >
 
 ## Author
    <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
