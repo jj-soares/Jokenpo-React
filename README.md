@@ -40,6 +40,7 @@ in addition to being able to increase Hooks, to make the project more complete!!
 - [Styled components](https://styled-components.com/)  
 - [JavaScript](https://www.javascript.com/)
 - [Yarn](https://yarnpkg.com/)  
+- [Vite](https://vitejs.dev/)  
 
 
 <br>
