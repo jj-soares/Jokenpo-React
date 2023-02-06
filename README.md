@@ -6,6 +6,13 @@ Jo-Ken-Po game with React!! 🖐🏾👊🏾✌🏾
   😉 Project with to train React and improve in this technology
 </h4>
 
+## Photos 🎴
+<div align ='center'>
+
+<img src="./public/readme-assets/jokepo.gif" alt='gif-porjeto'>
+
+</div>
+
 <p align="center">   
    <a href="#on">On</a> .
    <a href="#roadmap">Roadmap</a> .
@@ -17,20 +24,20 @@ Jo-Ken-Po game with React!! 🖐🏾👊🏾✌🏾
 
 
    
- ## On 
+ ## On ✔
      
    <p> This project was created with Vite to improve ease of construction!!</p>
    
    
    
- ## Roadmap 
+ ## Roadmap 🗺
    
    <p> 
 With this project I was able to better apply learning a lot about componentization, 
 in addition to being able to increase Hooks, to make the project more complete!!</p>
    
    
- ## Technologies
+ ## Technologies 🚀
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
@@ -46,7 +53,7 @@ in addition to being able to increase Hooks, to make the project more complete!!
 <br>
 <br>
 
-## Running the project
+## Running the project 🎢
 
 ```bash
 # Clone Repository
@@ -62,20 +69,11 @@ $ yarn dev or npm dev
 Go to http://127.0.0.1:5173/ to see the result.
 
    
-## Photos
-   <img src="./public/readme-assets/img1.JPG" width='50%' >
-    
-   <img src="./public/readme-assets/img2.JPG" width= '50%' >
-    
-   <img src="./public/readme-assets/img.JPG" width= '50%' >
-   
-   <img src="./public/readme-assets/jokenpo1.gif" width= '70%' >
-   
 
-## Author
+## Author 🏾‍♂️
    <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
 
-## License 
+## License 📝
 
 This project is under the [MIT license](./LICENSE).
 
