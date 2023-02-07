@@ -71,7 +71,7 @@ Go to http://127.0.0.1:5173/ to see the result.
    
 
 ## Author 🏾‍♂️
-   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
 
 ## License 📝
 
